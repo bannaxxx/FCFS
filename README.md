@@ -4,4 +4,4 @@ RR &amp; SJF
 
 ![My Image](ScrenshotRR.png)
 
-![My Image](Screenshot SJF.png)
+![My Image](ScreenshotSJF.png)
