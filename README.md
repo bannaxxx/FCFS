@@ -1,0 +1,2 @@
+# FCFS
+RR &amp; SJF
