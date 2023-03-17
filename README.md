@@ -1,2 +1,2 @@
-# FCFS
+# OS ASSIGNMENT
 RR &amp; SJF
